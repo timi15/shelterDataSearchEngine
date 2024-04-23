@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/prog1/shelterDataSearchEngine/cmake-build-debug/CMakeFiles/shelterDataSearchEngine.dir
+C:/Users/HP/Desktop/prog1/shelterDataSearchEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/prog1/shelterDataSearchEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
